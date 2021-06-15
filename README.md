@@ -23,9 +23,9 @@ El presente repositorio contiene el material necesario para llevar a cabo la pru
 
 Para instalar el proyecto de forma local deberá clonar el repositorio:
 
-```git clone https://github.com/Chris7ca/globalstdapi.git```
+```git clone https://github.com/ChristianID/prueba-tecnica-backend-php.git```
 
-```cd globalstdapi```
+```cd prueba-tecnica-backend-php```
 
 ```composer install```
 
